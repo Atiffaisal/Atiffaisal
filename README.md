@@ -46,3 +46,7 @@ but, because I am a Fresher So, I'm looking for job.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiffaisal&" alt="atiffaisal" /></p>
 
+
+<h3 align="left">Certificate :</h3>
+****
+[Python for Data Science.pdf](https://github.com/Atiffaisal/Atiffaisal/files/8765920/Python.for.Data.Science.pdf)
