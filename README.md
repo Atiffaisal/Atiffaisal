@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atif Faisal</h1>
 <h3 align="center">Data Analyst | Data scientist |Business Analyst</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/Atiffaisal/Atiffaisal/blob/main/_Brown%20&%20Yellow%20Animated%20Coffee%20Date%20Message%20Chat%20Mobile%20Video%20(2).mp4?raw=true">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiffaisal&label=Profile%20views&color=0e75b6&style=flat" alt="atiffaisal" /> </p>
