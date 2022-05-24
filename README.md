@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207
 
 
 
-
+<h3 align="left">About me</h3>
 
 - 🔭 I’m currently looking for **Job**
 
