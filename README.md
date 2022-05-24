@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Atif Faisal</h1>
 <h3 align="center">Data Analyst | Data scientist |Business Analyst</h3>
 
-https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207-86a1-9e83ae9141d4.mp4
+<img align="center"https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207-86a1-9e83ae9141d4.mp4>
 
 
 
 
 
 <h3 align="left">About me</h3>
+I am Atif Faisal from India. I come from non-tech background but I learned many courses from different resources or platforms.Self-taught Data Analysis or Data Science to seek full time job role at any organization. My proficiency is in Excel, Power BI, Tableau and also a good knowledge in SQL, Python and R Language. 
+
+
+Experience : I can say that I have created created dynamic dashboard, Data Visualizes, in Power BI and many assignments and projects in python and R.
+
 
 - 🔭 I’m currently looking for **Job**
 
