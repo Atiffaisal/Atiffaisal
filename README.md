@@ -5,9 +5,9 @@ https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atiffaisal&label=Profile%20views&color=0e75b6&style=flat" alt="atiffaisal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atiffaisal" alt="atiffaisal" /></a> </p>
+
+
 
 - 🔭 I’m currently looking for **Job**
 
