@@ -31,7 +31,7 @@ but, because I am a Fresher So, I'm looking for job.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atif faisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atif faisal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atif-faisal-988666193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atif faisal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
@@ -48,5 +48,5 @@ but, because I am a Fresher So, I'm looking for job.
 
 
 <h3 align="left">Certificate :</h3>
-****
+I have received this certificate from **IBM**
 [Python for Data Science.pdf](https://github.com/Atiffaisal/Atiffaisal/files/8765920/Python.for.Data.Science.pdf)
