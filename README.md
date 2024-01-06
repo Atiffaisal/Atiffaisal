@@ -8,27 +8,21 @@ https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207
 
 
 <h3 align="left">About me</h3>
-I am Atif Faisal from India. I come from non-tech background but I learned many courses from different resources or platforms.Self-taught Data Analysis or Data Science to seek full time job role at any organization. My proficiency is in Excel, Power BI, Tableau and also a good knowledge in SQL, Python and R Language. 
+I am Atif Faisal from India. I learned from many courses and hands-on practice and many assignments from different resources or platforms.Self-taught Data Analysis or Data Science course like Python for Data Science, Data Science with R programming and Google Certified Data Analyst. My proficiency is in Excel, Power BI, Tableau and also a good knowledge in SQL, Python and R Language. 
 
 
-**Experience :** I can say that I have created created dynamic dashboard, Data Visualizes, in Power BI and many assignments and projects in python and R.
+**Experience :** Presently working as a Analyst at biggest MNC.
 
+**JIT wale** https://youtu.be/UGj7b6cFT6A 
 
-<h3 align="left">What I do ?</h3>
-As a Data Analyst my responsibilities are in following steps : 
+this is my YOUTUBE CHANNEL where, I want to share my knowledge and expertise with junior candidates and college students, both tech- and non-tech-savvy, about Data Science, Data Analysis, and Business Analysis using a variety of programming languages and tools, like Python, SQL, R, C, C++, Excel, Tableau, and Power BI etc. 
+***Many tips, tricks and tactics for college students or freshers.***
 
-- **Asking questions** (ask problem related questions)
+Don't forget to like, share, subscribe my channel
 
-- **Prepare Data** (collect the data from different resources)
-
-- **Process Data** (Cleaning and manipulating the data)
-
-- **Analysation** (Analysing or Visualizing)
-
-- **Share** (finally, share with teams or seniors)
-
-but, because I am a Fresher So, I'm looking for job.
-
+If you like my video i highly recommend you to check my other videos in this channel and learn new things and skillup yourself 
+ stay blessed
+ stay happy
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/atif-faisal-988666193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atif faisal" height="30" width="40" /></a>
