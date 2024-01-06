@@ -50,4 +50,4 @@ I have received this certificate from **IBM** (International Business Machine, N
 
 
 
-
+<img align="center" alt="Coding" width="800" height="400" src="IBM.jpg">
