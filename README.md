@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atif Faisal</h1>
-<h3 align="center">Data Analyst | Data scientist | Business Analyst</h3>
-
-https://user-images.githubusercontent.com/105930761/170062558-a290b9bd-99ec-4207-86a1-9e83ae9141d4.mp4">
+<h3 align="center">Data Analyst | Data scientist | Business Analyst 
 
 
 ![image](https://github.com/Atiffaisal/Atiffaisal/assets/105930761/110b0a6d-dff2-430d-94f0-a072f94fe9e6)
