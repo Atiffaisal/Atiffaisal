@@ -17,12 +17,12 @@ I am Atif Faisal from India. I learned from many courses and hands-on practice a
 
 **Experience :** Presently working as a Analyst at biggest MNC.
 
-**JIT wale** https://youtu.be/UGj7b6cFT6A 
+<h3 align="left">JIT wale</h3> https://youtu.be/UGj7b6cFT6A 
 
-this is my YOUTUBE CHANNEL where, I want to share my knowledge and expertise with junior candidates and college students, both tech- and non-tech-savvy, about Data Science, Data Analysis, and Business Analysis using a variety of programming languages and tools, like Python, SQL, R, C, C++, Excel, Tableau, and Power BI etc. 
+This is my YOUTUBE CHANNEL where, I want to share my knowledge and expertise with junior candidates and college students, both tech- and non-tech-savvy, about Data Science, Data Analysis, and Business Analysis using a variety of programming languages and tools, like Python, SQL, R, C, C++, Excel, Tableau, and Power BI etc. 
 ***Many tips, tricks and tactics for college students or freshers.***
 
-Don't forget to like, share, subscribe my channel
+**Don't forget to like, share, subscribe my channel**
 
 If you like my video i highly recommend you to check my other videos in this channel and learn new things and skillup yourself 
  stay blessed
