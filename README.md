@@ -51,7 +51,3 @@ I have received this certificate from **IBM** (International Business Machine, N
 
 [Python for Data Science.pdf](https://github.com/Atiffaisal/Atiffaisal/files/8765920/Python.for.Data.Science.pdf)
 
-
-
-
-<img align="center" alt="Coding" width="800" height="400" src="IBM.jpg">
